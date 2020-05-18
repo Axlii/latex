@@ -1,0 +1,4 @@
+pyforms
+pylatex
+pytesseract
+PIL
